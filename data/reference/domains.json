@@ -1,0 +1,10 @@
+{
+  "Development": ["full stack", "fullstack", "frontend", "front-end", "backend", "back-end", "web developer", "développeur web", "software engineer", "développeur", "developer"],
+  "AI & Data": ["data analyst", "data scientist", "data engineer", "machine learning", "ml engineer", "ai engineer", "artificial intelligence", "intelligence artificielle", "deep learning", "nlp"],
+  "Cybersecurity": ["cybersecurity", "cybersécurité", "security analyst", "soc analyst", "pentester", "pentest", "security engineer"],
+  "Cloud & DevOps": ["devops", "cloud engineer", "cloud developer", "sre", "infrastructure"],
+  "Mobile": ["android", "ios", "flutter", "mobile developer", "react native"],
+  "QA": ["qa engineer", "software tester", "automation tester", "testeur", "test engineer"],
+  "Database": ["database administrator", "dba", "sql developer", "administrateur base de données"],
+  "UI/UX": ["ui designer", "ux designer", "product designer", "ui/ux", "ux/ui"]
+}
