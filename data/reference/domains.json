@@ -1,10 +1,10 @@
 {
-  "Development": ["full stack", "fullstack", "frontend", "front-end", "backend", "back-end", "web developer", "développeur web", "software engineer", "développeur", "developer"],
-  "AI & Data": ["data analyst", "data scientist", "data engineer", "machine learning", "ml engineer", "ai engineer", "artificial intelligence", "intelligence artificielle", "deep learning", "nlp"],
-  "Cybersecurity": ["cybersecurity", "cybersécurité", "security analyst", "soc analyst", "pentester", "pentest", "security engineer"],
-  "Cloud & DevOps": ["devops", "cloud engineer", "cloud developer", "sre", "infrastructure"],
-  "Mobile": ["android", "ios", "flutter", "mobile developer", "react native"],
-  "QA": ["qa engineer", "software tester", "automation tester", "testeur", "test engineer"],
-  "Database": ["database administrator", "dba", "sql developer", "administrateur base de données"],
-  "UI/UX": ["ui designer", "ux designer", "product designer", "ui/ux", "ux/ui"]
+  "AI & Data": ["data analyst", "analyste de données", "data scientist", "data engineer", "ingénieur data", "big data", "machine learning", "ml engineer", "ai engineer", "ingénieur ia", "artificial intelligence", "intelligence artificielle", "deep learning", "computer vision", "nlp", "business intelligence", "data science"],
+  "Cybersecurity": ["cybersecurity", "cyber security", "cybersécurité", "security analyst", "analyste sécurité", "soc analyst", "pentester", "pentest", "penetration test", "security engineer", "ingénieur sécurité", "sécurité informatique", "ethical hacking"],
+  "Cloud & DevOps": ["devops", "cloud engineer", "cloud developer", "cloud architect", "ingénieur cloud", "sre", "site reliability", "platform engineer", "infrastructure engineer", "administrateur système", "system administrator", "sysadmin"],
+  "Mobile": ["android", "ios", "flutter", "react native", "mobile developer", "développeur mobile", "mobile application", "application mobile", "kotlin developer", "swift developer"],
+  "QA": ["qa engineer", "qa analyst", "software tester", "automation tester", "test engineer", "ingénieur test", "testeur", "test automation", "quality assurance", "assurance qualité"],
+  "Database": ["database administrator", "administrateur base de données", "dba", "sql developer", "développeur sql", "database engineer", "oracle developer", "base de données"],
+  "UI/UX": ["ui designer", "ux designer", "product designer", "ui/ux", "ux/ui", "ui ux", "ux researcher", "web designer", "graphic designer"],
+  "Development": ["full stack", "fullstack", "full-stack", "frontend", "front-end", "front end", "backend", "back-end", "back end", "web developer", "développeur web", "software engineer", "software developer", "ingénieur logiciel", "développeur", "developpeur", "developer", "programmeur", "java developer", "python developer", "php developer", "laravel developer", ".net developer"]
 }
