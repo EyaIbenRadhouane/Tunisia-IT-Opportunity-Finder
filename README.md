@@ -64,4 +64,8 @@ pip install -r requirements.txt
 
 ## Ce que j'apprends (journal)
 
-- *À compléter à chaque étape.*
+### Étape 2 : référentiels
+- Un référentiel associe plusieurs variantes d'un texte à une valeur officielle (ex. « Sahloul » → Sousse).
+- Il faut chercher des mots entiers (« java » ≠ « javascript »).
+- L'ordre des domaines compte : les plus précis d'abord, Development en dernier.
+- Normaliser le texte (minuscules, sans accents) avant de comparer.
